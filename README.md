@@ -1,13 +1,12 @@
-![image](https://github.com/user-attachments/assets/4121c398-7a19-4f9a-81b4-2331944fc212)
+# Meteora 🌠
 
-<hr>
+![Preview](https://github.com/user-attachments/assets/4121c398-7a19-4f9a-81b4-2331944fc212)
 
-<p align="center">Meteora</p>
+<p align="center">🌌 Projeto Meteora, site estilizado usando Bootstrap para layout responsivo e moderno.</p>
 
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
-* Bootstrap
+---
 
-## Link:
-https://joao-carmassi.github.io/meteora/
+## 🛠 Tecnologias
+- HTML
+- CSS
+- Bootstrap
